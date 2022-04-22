@@ -29,6 +29,14 @@
         compartida por la comunidad universitaria en su  totalidad:
         <br><br>
 
+ El Centro de Estudios Superiores del Oriente de Michoacán, educa, en  ámbito de libertad,
+         disciplina, ética, honestidad, lealtad e igualdad  sin distinción de raza, sexo, creencias políticas, religiosas o  condición social.
 
+    </p>
+    <footer style="background-color: rgb(62, 106, 236);"><center><p style="font-size:40%;"> Carretera a Maravatío - Cd Hidalgo s/n
+      San Miguel Curahuango, C.P. 61250, Maravatío, Michoacán <br>
+      Tel: 01 (447) 478 4894 e-mail: contanco@cesom.edu.mx</p></center></footer>
+</body>
+</html>
 
 

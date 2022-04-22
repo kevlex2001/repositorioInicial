@@ -13,4 +13,12 @@
                <ul class="menu">
                    
                        </ul>
-   
+    </nav>
+     </header>
+     <center><img src="slider3.jpg" width="750" height="300">
+      <one click=> <a href="Paginacesom.html"><img src="logoCesom.png" width="350" height="200"></a></one></center>
+     <br><br>
+    <font color = "blue"><h1>Misión, Visión y Valores</h1></font>
+    <p style="font-family: Georgia, 'Times New Roman', Times, serif;">El Centro de Estudios Superiores del Oriente  de Michoacán (CESOM), es una universidad dedicada 
+        a ofrecer estudios de  nivel licenciatura y cuya misión consiste en:
+        <br><br>
